@@ -1,15 +1,13 @@
-# Привет всем!Меня зовут Андрей.
-# Я начинающи Веб-разработчик, сейчас обучаюсь на курсе Я.Практикум.
+#  Привет всем! Меня зовут Андрей.
+Я начинающи Веб-разработчик, сейчас обучаюсь на курсе Я.Практикум.
 
-# У меня не очень много работ, все их можно посмотреть по ссылкам:
+Мои навыки:
+   
 
 
-# меня можно найти:
-# VK: http://vk.com/azovkinandrey
-# e-mail: andreyazovkin2019@gmail.com
-https://timid198.github.io/how-to-learn/index.html
-https://timid198.github.io/russian-travel/index.html
-https://timid198.github.io/mesto/
+меня можно найти:
+VK: http://vk.com/azovkinandrey
+e-mail: andreyazovkin2019@gmail.com
 
 
 # Моя статистика:
